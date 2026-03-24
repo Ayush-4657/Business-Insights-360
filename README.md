@@ -44,7 +44,6 @@ The dashboard consists of Five interactive pages:
 - Top and Bottom Products and Customers by Net Sales.
 - Budgeting and cost control insights.
 <img width="1444" height="811" alt="Finance View" src="https://github.com/user-attachments/assets/ef975aa5-70ce-451b-9f5b-9e75d33614f0" />
---
 
 **2. Sales View:**
 - Customer performance by Net Sales.
