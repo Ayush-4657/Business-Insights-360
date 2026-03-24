@@ -39,31 +39,31 @@ This project was completed as part of the Codebasics Power BI Course, which prov
 ## Power BI Dashboard Overview
 The dashboard consists of Five interactive pages:
 
-**1. Finance Page:**
+**1. Finance View:**
 - Profit and Loss statements.
 - Top and Bottom Products and Customers by Net Sales.
 - Budgeting and cost control insights.
 <img width="1444" height="811" alt="Finance View" src="https://github.com/user-attachments/assets/ef975aa5-70ce-451b-9f5b-9e75d33614f0" />
 
-**2.Sales Page:**
+**2. Sales View:**
 - Customer performance by Net Sales.
 - Gross Margin and Gross Margin %.
 - Revenue trends and market share analysis.
 <img width="1444" height="812" alt="Sales View" src="https://github.com/user-attachments/assets/4a2f1e6b-dfc4-4949-944e-e059d8bd1598" />
 
-**3. Marketing Page:**
+**3. Marketing View:**
 - Segment performance by Gross Margin % and Net Profit %.
 - Customer engagement and brand visibility metrics.
 <img width="1446" height="816" alt="Marketing View" src="https://github.com/user-attachments/assets/cc6b1ea1-9bab-4529-94fc-a785575e1c2b" />
 
 
-**4. Supply Chain Page:**
+**4. Supply Chain View:**
 - Forecast accuracy and Net error metrics.
 - Inventory and supplier performance analysis.
 <img width="1443" height="812" alt="Supply Chain View" src="https://github.com/user-attachments/assets/7b004e42-60d7-4630-b207-721ae10f4981" />
 
 
-**5. Executive Page:**
+**5. Executive View:**
 - High-level KPIs like Net Sales, Gross Margin %, and Net Profit %.
 - Performance by channel and sub-region.
 - Highlights of top customers and products.
